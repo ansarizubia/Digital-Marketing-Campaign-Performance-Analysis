@@ -1,6 +1,6 @@
 # Digital Marketing Campaign Performance Analysis
 
-Excel + Power BI project | Author: Zubia Ansari | [GitHub](https://github.com/ansarizubia)
+Excel + Power BI project
 
 ## Business problem
 
@@ -56,4 +56,4 @@ Full findings and recommendations are in the `Insights` sheet of the workbook.
 
 ### Author
 **Zubia Ansari** - Data and BI Analyst
-LinkedIn | GitHub
+[LinkedIn](https://www.linkedin.com/in/zubia-ansari01/) | [GitHub](https://github.com/ansarizubia)
