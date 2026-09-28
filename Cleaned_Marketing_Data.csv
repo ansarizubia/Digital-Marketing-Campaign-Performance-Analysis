@@ -1,0 +1,621 @@
+Campaign_ID,Campaign_Name,Channel,Region,Device,Date,Impressions,Clicks,Amount_Spent_INR,Conversions,Revenue_INR
+CMP-1001,Monsoon Must-Haves,Email Marketing,Pune,Mobile,2025-07-07,4396,273,1197.64,19,26520.23
+CMP-1001,Monsoon Must-Haves,Email Marketing,Mumbai,Desktop,2025-07-07,5230,392,1590.59,39,55738.15
+CMP-1001,Monsoon Must-Haves,Email Marketing,Hyderabad,Mobile,2025-07-07,5247,300,1360.82,26,28528.74
+CMP-1001,Monsoon Must-Haves,Google Ads,Mumbai,Mobile,2025-07-07,8556,417,5136.41,21,29564.96
+CMP-1001,Monsoon Must-Haves,Google Ads,Hyderabad,Mobile,2025-07-07,11349,503,6229.88,26,36604.16
+CMP-1001,Monsoon Must-Haves,Google Ads,Pune,Mobile,2025-07-07,9992,444,6514.73,20,27331.7
+CMP-1001,Monsoon Must-Haves,Influencer Marketing,Mumbai,Mobile,2025-07-07,10003,247,1355.06,9,15424.35
+CMP-1001,Monsoon Must-Haves,Influencer Marketing,Hyderabad,Mobile,2025-07-07,6743,223,1235.55,7,9563.18
+CMP-1001,Monsoon Must-Haves,Influencer Marketing,Pune,Mobile,2025-07-07,7991,235,1512.45,7,9865.52
+CMP-1001,Monsoon Must-Haves,Instagram Ads,Mumbai,Mobile,2025-07-07,16073,385,2364.44,12,16769.94
+CMP-1001,Monsoon Must-Haves,Instagram Ads,Hyderabad,Mobile,2025-07-07,18254,414,2697.76,15,20128.28
+CMP-1001,Monsoon Must-Haves,Instagram Ads,Pune,Mobile,2025-07-07,11769,374,2562.82,12,17851.15
+CMP-1001,Monsoon Must-Haves,YouTube Ads,Mumbai,Desktop,2025-07-07,18966,248,1243.39,6,9360.61
+CMP-1001,Monsoon Must-Haves,YouTube Ads,Hyderabad,Mobile,2025-07-07,22873,235,757.86,6,7968.92
+CMP-1001,Monsoon Must-Haves,Email Marketing,Mumbai,Desktop,2025-07-14,6610,361,1273.49,29,37862.11
+CMP-1001,Monsoon Must-Haves,Email Marketing,Hyderabad,Desktop,2025-07-14,3364,234,750.31,15,20824.67
+CMP-1001,Monsoon Must-Haves,Email Marketing,Pune,Desktop,2025-07-14,4417,323,1422.18,23,25406.29
+CMP-1001,Monsoon Must-Haves,Google Ads,Pune,Desktop,2025-07-14,13990,526,6879.86,29,38682.47
+CMP-1001,Monsoon Must-Haves,Google Ads,Hyderabad,Mobile,2025-07-14,12666,388,3726.97,20,32511.96
+CMP-1001,Monsoon Must-Haves,Google Ads,Mumbai,Mobile,2025-07-14,12375,481,6301.62,24,36362.27
+CMP-1001,Monsoon Must-Haves,Influencer Marketing,Hyderabad,Mobile,2025-07-14,9830,303,1121.38,9,13191.02
+CMP-1001,Monsoon Must-Haves,Influencer Marketing,Mumbai,Desktop,2025-07-14,7655,219,1718.14,7,9773.25
+CMP-1001,Monsoon Must-Haves,Influencer Marketing,Pune,Mobile,2025-07-14,7940,295,1558.98,8,10435.77
+CMP-1001,Monsoon Must-Haves,Instagram Ads,Hyderabad,Mobile,2025-07-14,17500,593,5435.43,22,29913.04
+CMP-1001,Monsoon Must-Haves,Instagram Ads,Mumbai,Mobile,2025-07-14,18829,396,3988.79,13,17207.2
+CMP-1001,Monsoon Must-Haves,Instagram Ads,Pune,Desktop,2025-07-14,13170,307,2746.41,11,15301.23
+CMP-1001,Monsoon Must-Haves,YouTube Ads,Mumbai,Desktop,2025-07-14,18909,162,1019.26,3,4331.26
+CMP-1001,Monsoon Must-Haves,YouTube Ads,Pune,Mobile,2025-07-14,34968,280,1327.26,6,7437.83
+CMP-1001,Monsoon Must-Haves,YouTube Ads,Hyderabad,Mobile,2025-07-14,26984,192,873.67,4,5780.91
+CMP-1001,Monsoon Must-Haves,Email Marketing,Pune,Mobile,2025-07-21,4834,398,1668.92,33,42975.15
+CMP-1001,Monsoon Must-Haves,Email Marketing,Hyderabad,Desktop,2025-07-21,2713,148,501.94,13,17178.42
+CMP-1001,Monsoon Must-Haves,Google Ads,Mumbai,Mobile,2025-07-21,10803,540,5057.7,22,40574.2
+CMP-1001,Monsoon Must-Haves,Google Ads,Pune,Mobile,2025-07-21,8489,328,4543.75,13,15221.45
+CMP-1001,Monsoon Must-Haves,Google Ads,Hyderabad,Mobile,2025-07-21,9800,412,3982.88,22,34223.95
+CMP-1001,Monsoon Must-Haves,Influencer Marketing,Pune,Tablet,2025-07-21,8870,268,1587.08,9,11056.0
+CMP-1001,Monsoon Must-Haves,Influencer Marketing,Hyderabad,Mobile,2025-07-21,10013,263,1668.72,8,11698.73
+CMP-1001,Monsoon Must-Haves,Influencer Marketing,Mumbai,Mobile,2025-07-21,10438,250,1402.51,8,12771.46
+CMP-1001,Monsoon Must-Haves,Instagram Ads,Pune,Mobile,2025-07-21,19291,436,3169.7,18,27049.55
+CMP-1001,Monsoon Must-Haves,Instagram Ads,Hyderabad,Mobile,2025-07-21,10737,346,3270.27,12,14728.19
+CMP-1001,Monsoon Must-Haves,Instagram Ads,Mumbai,Mobile,2025-07-21,19760,636,6511.62,24,29095.63
+CMP-1001,Monsoon Must-Haves,YouTube Ads,Mumbai,Mobile,2025-07-21,35863,373,2042.21,7,10579.85
+CMP-1001,Monsoon Must-Haves,YouTube Ads,Pune,Desktop,2025-07-21,25708,293,962.39,6,7543.44
+CMP-1001,Monsoon Must-Haves,YouTube Ads,Hyderabad,Desktop,2025-07-21,19188,176,730.65,3,4308.37
+CMP-1001,Monsoon Must-Haves,Email Marketing,Mumbai,Mobile,2025-07-28,4934,278,1125.74,19,23864.11
+CMP-1001,Monsoon Must-Haves,Email Marketing,Hyderabad,Mobile,2025-07-28,2880,150,648.84,10,14615.7
+CMP-1001,Monsoon Must-Haves,Email Marketing,Pune,Mobile,2025-07-28,3082,194,625.78,17,18453.06
+CMP-1001,Monsoon Must-Haves,Google Ads,Mumbai,Mobile,2025-07-28,9366,465,5031.13,28,36332.16
+CMP-1001,Monsoon Must-Haves,Google Ads,Hyderabad,Mobile,2025-07-28,16402,762,10141.47,39,59936.96
+CMP-1001,Monsoon Must-Haves,Google Ads,Pune,Mobile,2025-07-28,16908,578,5539.35,28,32965.17
+CMP-1001,Monsoon Must-Haves,Influencer Marketing,Pune,Mobile,2025-07-28,7248,210,1635.64,9,13884.38
+CMP-1001,Monsoon Must-Haves,Influencer Marketing,Mumbai,Mobile,2025-07-28,10256,381,2842.86,14,17419.71
+CMP-1001,Monsoon Must-Haves,Influencer Marketing,Hyderabad,Mobile,2025-07-28,11230,357,2159.62,11,16065.25
+CMP-1001,Monsoon Must-Haves,Instagram Ads,Pune,Mobile,2025-07-28,17190,439,2895.87,14,20506.32
+CMP-1001,Monsoon Must-Haves,Instagram Ads,Mumbai,Tablet,2025-07-28,19888,443,3534.31,12,16351.61
+CMP-1001,Monsoon Must-Haves,Instagram Ads,Hyderabad,Mobile,2025-07-28,16317,506,4638.21,19,40726.34
+CMP-1001,Monsoon Must-Haves,YouTube Ads,Hyderabad,Mobile,2025-07-28,29647,276,1203.78,4,5934.25
+CMP-1001,Monsoon Must-Haves,YouTube Ads,Pune,Desktop,2025-07-28,22899,186,800.06,4,5559.16
+CMP-1001,Monsoon Must-Haves,YouTube Ads,Mumbai,Mobile,2025-07-28,17783,263,1565.61,6,7403.68
+CMP-1002,Independence Day Special,Email Marketing,Hyderabad,Mobile,2025-08-04,5062,385,973.98,38,66784.48
+CMP-1002,Independence Day Special,Email Marketing,Bengaluru,Desktop,2025-08-04,4732,345,1152.01,25,39445.35
+CMP-1002,Independence Day Special,Email Marketing,Pune,Mobile,2025-08-04,5509,378,1829.34,29,50821.91
+CMP-1002,Independence Day Special,Email Marketing,Chennai,Mobile,2025-08-04,3812,308,1312.92,22,31152.38
+CMP-1002,Independence Day Special,Email Marketing,Mumbai,Mobile,2025-08-04,5475,339,962.28,32,53901.7
+CMP-1002,Independence Day Special,Facebook Ads,Bengaluru,Mobile,2025-08-04,20645,334,1885.54,9,13815.58
+CMP-1002,Independence Day Special,Facebook Ads,Chennai,Mobile,2025-08-04,19120,360,3336.49,9,14157.71
+CMP-1002,Independence Day Special,Facebook Ads,Hyderabad,Tablet,2025-08-04,13015,241,1894.29,4,5641.66
+CMP-1002,Independence Day Special,Facebook Ads,Pune,Mobile,2025-08-04,26049,26049,3262.56,15,21797.15
+CMP-1002,Independence Day Special,Facebook Ads,Mumbai,Mobile,2025-08-04,17205,333,2134.08,11,17006.37
+CMP-1002,Independence Day Special,Instagram Ads,Chennai,Desktop,2025-08-04,14729,285,2257.13,9,14957.41
+CMP-1002,Independence Day Special,Instagram Ads,Pune,Mobile,2025-08-04,11696,264,1550.35,7,11216.71
+CMP-1002,Independence Day Special,Instagram Ads,Mumbai,Desktop,2025-08-04,19105,432,3955.67,17,32376.3
+CMP-1002,Independence Day Special,Instagram Ads,Hyderabad,Desktop,2025-08-04,11992,332,2708.45,11,15876.21
+CMP-1002,Independence Day Special,Instagram Ads,Bengaluru,Mobile,2025-08-04,14387,315,2537.06,12,20500.12
+CMP-1002,Independence Day Special,Email Marketing,Mumbai,Mobile,2025-08-11,3588,229,614.1,19,28380.51
+CMP-1002,Independence Day Special,Email Marketing,Bengaluru,Mobile,2025-08-11,3555,188,479.14,17,27471.7
+CMP-1002,Independence Day Special,Email Marketing,Pune,Mobile,2025-08-11,6331,414,1214.94,41,73734.11
+CMP-1002,Independence Day Special,Email Marketing,Chennai,Mobile,2025-08-11,3383,263,692.25,25,39070.92
+CMP-1002,Independence Day Special,Email Marketing,Hyderabad,Mobile,2025-08-11,3601,219,904.17,17,25921.03
+CMP-1002,Independence Day Special,Facebook Ads,Pune,Desktop,2025-08-11,23339,372,2096.84,11,13880.29
+CMP-1002,Independence Day Special,Facebook Ads,Mumbai,Mobile,2025-08-11,18919,284,1704.65,8,10996.0
+CMP-1002,Independence Day Special,Facebook Ads,Bengaluru,Desktop,2025-08-11,14324,294,1445.92,9,14097.27
+CMP-1002,Independence Day Special,Facebook Ads,Hyderabad,Mobile,2025-08-11,15808,232,1892.91,6,10061.27
+CMP-1002,Independence Day Special,Instagram Ads,Chennai,Mobile,2025-08-11,17662,495,4947.5,17,25845.02
+CMP-1002,Independence Day Special,Instagram Ads,Pune,Desktop,2025-08-11,18988,522,3863.18,15,24444.42
+CMP-1002,Independence Day Special,Instagram Ads,Bengaluru,Mobile,2025-08-11,18127,381,2870.02,15,23099.39
+CMP-1002,Independence Day Special,Instagram Ads,Hyderabad,Mobile,2025-08-11,12577,323,2280.8,14,19053.92
+CMP-1002,Independence Day Special,Email Marketing,Hyderabad,Tablet,2025-08-18,4960,349,1384.58,26,42605.36
+CMP-1002,Independence Day Special,Email Marketing,Chennai,Tablet,2025-08-18,4513,314,1082.51,30,41633.17
+CMP-1002,Independence Day Special,Email Marketing,Mumbai,Mobile,2025-08-18,6437,390,1717.15,36,51893.58
+CMP-1002,Independence Day Special,Email Marketing,Bengaluru,Mobile,2025-08-18,4948,242,966.7,19,31057.65
+CMP-1002,Independence Day Special,Email Marketing,Pune,Desktop,2025-08-18,3820,253,940.27,17,26899.38
+CMP-1002,Independence Day Special,Facebook Ads,Mumbai,Mobile,2025-08-18,22338,513,4783.15,15,24165.68
+CMP-1002,Independence Day Special,Facebook Ads,Bengaluru,Desktop,2025-08-18,22668,451,3964.52,15,26021.99
+CMP-1002,Independence Day Special,Facebook Ads,Pune,Mobile,2025-08-18,25040,355,2581.28,9,12942.44
+CMP-1002,Independence Day Special,Facebook Ads,Chennai,Mobile,2025-08-18,21993,476,3940.15,12,14826.04
+CMP-1002,Independence Day Special,Facebook Ads,Hyderabad,Desktop,2025-08-18,13594,335,2720.92,11,15560.74
+CMP-1002,Independence Day Special,Instagram Ads,Chennai,Mobile,2025-08-18,15716,357,3770.69,14,19990.1
+CMP-1002,Independence Day Special,Instagram Ads,Bengaluru,Mobile,2025-08-18,12548,293,3026.85,12,18666.02
+CMP-1002,Independence Day Special,Instagram Ads,Mumbai,Mobile,2025-08-18,15234,445,3361.41,15,25192.77
+CMP-1002,Independence Day Special,Instagram Ads,Pune,Mobile,2025-08-18,16825,489,3460.55,15,17102.98
+CMP-1002,Independence Day Special,Instagram Ads,Hyderabad,Desktop,2025-08-18,18838,559,4036.58,20,27215.71
+CMP-1003,Back to College,Facebook Ads,Pune,Mobile,2025-08-25,13702,263,1691.72,8,10012.4
+CMP-1003,Back to College,Facebook Ads,Hyderabad,Mobile,2025-08-25,24496,590,3184.43,14,19824.23
+CMP-1003,Back to College,Facebook Ads,Delhi NCR,Desktop,2025-08-25,19368,392,2335.61,8,10623.93
+CMP-1003,Back to College,Google Ads,Hyderabad,Tablet,2025-08-25,12425,503,5327.67,24,31896.16
+CMP-1003,Back to College,Google Ads,Delhi NCR,Mobile,2025-08-25,11997,586,6721.7,28,42186.41
+CMP-1003,Back to College,Google Ads,Pune,Mobile,2025-08-25,15067,552,5042.21,21,34100.93
+CMP-1003,Back to College,Influencer Marketing,Hyderabad,Mobile,2025-08-25,6559,162,1055.05,6,11590.19
+CMP-1003,Back to College,Influencer Marketing,Pune,Mobile,2025-08-25,9018,253,1458.03,11,10594.7
+CMP-1003,Back to College,Influencer Marketing,Delhi NCR,Mobile,2025-08-25,5789,170,1096.83,5,7895.12
+CMP-1003,Back to College,Instagram Ads,Pune,Tablet,2025-08-25,19524,692,4748.13,27,28914.06
+CMP-1003,Back to College,Instagram Ads,Hyderabad,Desktop,2025-08-25,17245,554,4687.82,17,23247.52
+CMP-1003,Back to College,Instagram Ads,Delhi NCR,Mobile,2025-08-25,16377,400,2404.59,12,17321.85
+CMP-1003,Back to College,YouTube Ads,Delhi NCR,Mobile,2025-08-25,24679,182,658.41,4,4939.13
+CMP-1003,Back to College,YouTube Ads,Pune,Desktop,2025-08-25,19909,201,1085.17,4,4833.29
+CMP-1003,Back to College,YouTube Ads,Hyderabad,Mobile,2025-08-25,28923,214,819.18,3,3846.16
+CMP-1003,Back to College,Facebook Ads,Pune,Tablet,2025-09-01,21933,439,3268.89,11,13216.94
+CMP-1003,Back to College,Facebook Ads,Delhi NCR,Mobile,2025-09-01,13217,239,1456.37,7,9703.09
+CMP-1003,Back to College,Facebook Ads,Hyderabad,Tablet,2025-09-01,19793,295,1916.52,7,7591.8
+CMP-1003,Back to College,Google Ads,Hyderabad,Mobile,2025-09-01,8659,388,4459.15,19,22473.61
+CMP-1003,Back to College,Google Ads,Pune,Mobile,2025-09-01,10833,425,3789.5,20,25222.34
+CMP-1003,Back to College,Google Ads,Delhi NCR,Mobile,2025-09-01,14672,559,5268.59,29,47898.21
+CMP-1003,Back to College,Influencer Marketing,Hyderabad,Desktop,2025-09-01,7120,284,1539.77,12,15699.36
+CMP-1003,Back to College,Influencer Marketing,Pune,Mobile,2025-09-01,6226,192,1224.81,5,6113.13
+CMP-1003,Back to College,Instagram Ads,Hyderabad,Mobile,2025-09-01,16658,460,3199.62,17,19137.88
+CMP-1003,Back to College,Instagram Ads,Delhi NCR,Tablet,2025-09-01,11836,278,1902.95,7,10351.84
+CMP-1003,Back to College,Instagram Ads,Pune,Desktop,2025-09-01,13216,309,2200.72,10,14745.04
+CMP-1003,Back to College,YouTube Ads,Pune,Mobile,2025-09-01,19745,165,588.12,4,5544.94
+CMP-1003,Back to College,YouTube Ads,Delhi NCR,Mobile,2025-09-01,34775,449,2419.56,8,11741.32
+CMP-1003,Back to College,YouTube Ads,Hyderabad,Tablet,2025-09-01,23162,338,1151.58,6,7367.57
+CMP-1003,Back to College,Facebook Ads,Delhi NCR,Mobile,2025-09-08,15788,340,1945.37,11,14618.15
+CMP-1003,Back to College,Facebook Ads,Pune,Mobile,2025-09-08,22628,476,2574.46,12,18323.53
+CMP-1003,Back to College,Facebook Ads,Hyderabad,Mobile,2025-09-08,14398,311,2582.44,10,12234.05
+CMP-1003,Back to College,Google Ads,Delhi NCR,Tablet,2025-09-08,13023,609,5009.03,31,41833.82
+CMP-1003,Back to College,Google Ads,Pune,Desktop,2025-09-08,9970,452,6003.82,28,34553.65
+CMP-1003,Back to College,Google Ads,Hyderabad,Mobile,2025-09-08,9244,381,5760.01,17,23682.46
+CMP-1003,Back to College,Influencer Marketing,Hyderabad,Desktop,2025-09-08,8509,300,2077.0,11,13620.4
+CMP-1003,Back to College,Influencer Marketing,Delhi NCR,Mobile,2025-09-08,7013,258,1501.12,10,11534.62
+CMP-1003,Back to College,Influencer Marketing,Pune,Desktop,2025-09-08,9098,224,1195.62,9,10811.9
+CMP-1003,Back to College,Instagram Ads,Pune,Mobile,2025-09-08,12131,256,1564.92,10,14296.59
+CMP-1003,Back to College,Instagram Ads,Hyderabad,Desktop,2025-09-08,14550,512,4262.97,20,35021.44
+CMP-1003,Back to College,Instagram Ads,Delhi NCR,Mobile,2025-09-08,12889,342,2669.11,11,15188.97
+CMP-1003,Back to College,YouTube Ads,Delhi NCR,Mobile,2025-09-08,23372,281,1487.32,6,9500.25
+CMP-1003,Back to College,YouTube Ads,Hyderabad,Mobile,2025-09-08,32064,352,1219.58,9,10002.19
+CMP-1003,Back to College,YouTube Ads,Pune,Desktop,2025-09-08,21239,287,1223.65,6,10075.55
+CMP-1003,Back to College,Facebook Ads,Hyderabad,Mobile,2025-09-15,14513,321,1970.82,10,13291.0
+CMP-1003,Back to College,Facebook Ads,Delhi NCR,Mobile,2025-09-15,14661,367,2525.91,10,11783.25
+CMP-1003,Back to College,Facebook Ads,Pune,Mobile,2025-09-15,25375,490,3584.6,12,16412.72
+CMP-1003,Back to College,Google Ads,Delhi NCR,Mobile,2025-09-15,14089,666,9352.88,29,49771.67
+CMP-1003,Back to College,Google Ads,Pune,Desktop,2025-09-15,12092,546,5283.2,28,50896.59
+CMP-1003,Back to College,Google Ads,Hyderabad,Desktop,2025-09-15,9151,414,6415.84,23,32217.48
+CMP-1003,Back to College,Influencer Marketing,Pune,Mobile,2025-09-15,6277,233,1091.22,10,12742.41
+CMP-1003,Back to College,Influencer Marketing,Delhi NCR,Mobile,2025-09-15,10525,323,2116.19,10,16017.95
+CMP-1003,Back to College,Influencer Marketing,Hyderabad,Mobile,2025-09-15,6835,216,1449.19,6,7674.39
+CMP-1003,Back to College,Instagram Ads,Hyderabad,Desktop,2025-09-15,15092,346,3289.66,13,18037.9
+CMP-1003,Back to College,Instagram Ads,Pune,Desktop,2025-09-15,16435,475,4893.57,18,29154.16
+CMP-1003,Back to College,YouTube Ads,Pune,Mobile,2025-09-15,32541,230,911.9,4,6102.68
+CMP-1003,Back to College,YouTube Ads,Delhi NCR,Mobile,2025-09-15,25084,265,963.47,4,3568.24
+CMP-1004,Wedding Season Edit,Facebook Ads,Mumbai,Mobile,2025-09-22,14616,209,1703.44,6,8635.74
+CMP-1004,Wedding Season Edit,Facebook Ads,Kolkata,Mobile,2025-09-22,12879,213,1232.23,6,12248.28
+CMP-1004,Wedding Season Edit,Facebook Ads,Chennai,Mobile,2025-09-22,17364,275,2046.75,7,13866.45
+CMP-1004,Wedding Season Edit,Facebook Ads,Pune,Mobile,2025-09-22,14551,207,1744.14,5,7962.58
+CMP-1004,Wedding Season Edit,Facebook Ads,Delhi NCR,Mobile,2025-09-22,16788,273,2062.24,8,15526.72
+CMP-1004,Wedding Season Edit,Influencer Marketing,Chennai,Mobile,2025-09-22,9689,354,2126.06,10,18679.04
+CMP-1004,Wedding Season Edit,Influencer Marketing,Pune,Mobile,2025-09-22,10479,295,1495.85,9,16629.77
+CMP-1004,Wedding Season Edit,Influencer Marketing,Delhi NCR,Mobile,2025-09-22,6708,218,1548.46,9,14727.54
+CMP-1004,Wedding Season Edit,Influencer Marketing,Mumbai,Desktop,2025-09-22,10630,243,1925.82,8,14360.73
+CMP-1004,Wedding Season Edit,Influencer Marketing,Kolkata,Mobile,2025-09-22,8059,215,889.59,10,15046.7
+CMP-1004,Wedding Season Edit,Instagram Ads,Kolkata,Mobile,2025-09-22,12183,333,2454.85,13,22339.33
+CMP-1004,Wedding Season Edit,Instagram Ads,Delhi NCR,Desktop,2025-09-22,18978,528,4546.44,18,33308.7
+CMP-1004,Wedding Season Edit,Instagram Ads,Chennai,Desktop,2025-09-22,10973,223,1675.59,6,10540.69
+CMP-1004,Wedding Season Edit,Instagram Ads,Mumbai,Mobile,2025-09-22,20939,587,4886.18,19,36465.91
+CMP-1004,Wedding Season Edit,Instagram Ads,Pune,Mobile,2025-09-22,14655,363,2736.51,12,24015.86
+CMP-1004,Wedding Season Edit,Facebook Ads,Pune,Mobile,2025-09-29,16365,331,1817.62,8,13454.93
+CMP-1004,Wedding Season Edit,Facebook Ads,Chennai,Tablet,2025-09-29,18775,416,2516.13,13,25862.0
+CMP-1004,Wedding Season Edit,Facebook Ads,Mumbai,Mobile,2025-09-29,14967,197,1183.37,7,13010.1
+CMP-1004,Wedding Season Edit,Facebook Ads,Kolkata,Mobile,2025-09-29,19574,329,2409.99,7,13339.75
+CMP-1004,Wedding Season Edit,Facebook Ads,Delhi NCR,Mobile,2025-09-29,14980,256,2116.72,6,9849.65
+CMP-1004,Wedding Season Edit,Influencer Marketing,Kolkata,Mobile,2025-09-29,9866,304,2001.3,14,25198.18
+CMP-1004,Wedding Season Edit,Influencer Marketing,Mumbai,Mobile,2025-09-29,8009,196,1619.04,6,10794.61
+CMP-1004,Wedding Season Edit,Influencer Marketing,Delhi NCR,Tablet,2025-09-29,10811,423,1834.4,15,24268.65
+CMP-1004,Wedding Season Edit,Influencer Marketing,Pune,Mobile,2025-09-29,7962,309,2191.67,8,12108.22
+CMP-1004,Wedding Season Edit,Influencer Marketing,Chennai,Desktop,2025-09-29,7165,239,1711.66,10,19242.21
+CMP-1004,Wedding Season Edit,Instagram Ads,Chennai,Mobile,2025-09-29,12780,292,2500.93,8,18186.52
+CMP-1004,Wedding Season Edit,Instagram Ads,Pune,Mobile,2025-09-29,15116,447,3612.45,14,27158.53
+CMP-1004,Wedding Season Edit,Instagram Ads,Kolkata,Mobile,2025-09-29,13858,443,2931.87,11,19747.3
+CMP-1004,Wedding Season Edit,Instagram Ads,Mumbai,Mobile,2025-09-29,17678,570,5268.26,16,36581.26
+CMP-1004,Wedding Season Edit,Instagram Ads,Delhi NCR,Mobile,2025-09-29,17586,509,3932.37,18,30802.61
+CMP-1004,Wedding Season Edit,Facebook Ads,Chennai,Desktop,2025-10-06,20619,493,3127.81,15,27447.03
+CMP-1004,Wedding Season Edit,Facebook Ads,Kolkata,Desktop,2025-10-06,14994,240,1347.41,7,12105.03
+CMP-1004,Wedding Season Edit,Facebook Ads,Delhi NCR,Mobile,2025-10-06,19077,358,2972.0,10,18478.8
+CMP-1004,Wedding Season Edit,Facebook Ads,Pune,Mobile,2025-10-06,19925,464,2460.94,12,24875.47
+CMP-1004,Wedding Season Edit,Facebook Ads,Mumbai,Mobile,2025-10-06,26528,572,4853.31,16,32033.08
+CMP-1004,Wedding Season Edit,Influencer Marketing,Chennai,Mobile,2025-10-06,10563,241,1393.17,10,18035.97
+CMP-1004,Wedding Season Edit,Influencer Marketing,Kolkata,Mobile,2025-10-06,8877,231,1697.96,8,15471.74
+CMP-1004,Wedding Season Edit,Influencer Marketing,Pune,Desktop,2025-10-06,10878,378,2396.9,15,25465.6
+CMP-1004,Wedding Season Edit,Influencer Marketing,Mumbai,Desktop,2025-10-06,7498,229,1032.49,10,18546.59
+CMP-1004,Wedding Season Edit,Influencer Marketing,Delhi NCR,Mobile,2025-10-06,7800,190,1414.59,6,10301.52
+CMP-1004,Wedding Season Edit,Instagram Ads,Kolkata,Mobile,2025-10-06,16409,430,3560.16,16,27716.95
+CMP-1004,Wedding Season Edit,Instagram Ads,Chennai,Mobile,2025-10-06,16904,521,5062.06,16,32068.58
+CMP-1004,Wedding Season Edit,Instagram Ads,Pune,Mobile,2025-10-06,13911,433,2729.17,13,26963.42
+CMP-1004,Wedding Season Edit,Instagram Ads,Mumbai,Mobile,2025-10-06,11194,217,1903.68,6,10963.87
+CMP-1004,Wedding Season Edit,Instagram Ads,Delhi NCR,Desktop,2025-10-06,13877,307,2299.57,9,16256.31
+CMP-1005,Diwali Mega Sale,Email Marketing,Pune,Mobile,2025-10-06,5572,436,1563.99,37,70801.4
+CMP-1005,Diwali Mega Sale,Email Marketing,Mumbai,Mobile,2025-10-06,3758,292,801.11,30,68013.93
+CMP-1005,Diwali Mega Sale,Email Marketing,Bengaluru,Mobile,2025-10-06,3368,171,633.39,15,30611.0
+CMP-1005,Diwali Mega Sale,Influencer Marketing,Pune,Tablet,2025-10-06,6789,152,772.65,5,9861.69
+CMP-1005,Diwali Mega Sale,Influencer Marketing,Mumbai,Mobile,2025-10-06,10476,303,1522.47,13,27382.55
+CMP-1005,Diwali Mega Sale,Influencer Marketing,Bengaluru,Desktop,2025-10-06,7848,257,1456.61,10,20655.68
+CMP-1005,Diwali Mega Sale,Instagram Ads,Pune,Mobile,2025-10-06,15607,411,2722.34,13,24046.21
+CMP-1005,Diwali Mega Sale,Instagram Ads,Mumbai,Mobile,2025-10-06,14888,435,3954.52,13,25732.23
+CMP-1005,Diwali Mega Sale,YouTube Ads,Mumbai,Mobile,2025-10-06,34472,270,1187.15,4,8117.41
+CMP-1005,Diwali Mega Sale,YouTube Ads,Bengaluru,Mobile,2025-10-06,23688,271,1136.0,5,9742.92
+CMP-1005,Diwali Mega Sale,YouTube Ads,Pune,Desktop,2025-10-06,32091,296,1507.27,7,11155.91
+CMP-1004,Wedding Season Edit,Facebook Ads,Chennai,Mobile,2025-10-13,18352,281,2435.58,6,10258.59
+CMP-1004,Wedding Season Edit,Facebook Ads,Kolkata,Mobile,2025-10-13,14094,14094,2216.42,8,13617.58
+CMP-1004,Wedding Season Edit,Facebook Ads,Delhi NCR,Mobile,2025-10-13,19243,361,1777.55,9,14078.0
+CMP-1004,Wedding Season Edit,Facebook Ads,Mumbai,Mobile,2025-10-13,13506,348,3081.21,11,22750.1
+CMP-1004,Wedding Season Edit,Influencer Marketing,Kolkata,Tablet,2025-10-13,10453,338,1266.91,12,22162.77
+CMP-1004,Wedding Season Edit,Influencer Marketing,Mumbai,Mobile,2025-10-13,7284,287,1973.42,8,14259.35
+CMP-1004,Wedding Season Edit,Influencer Marketing,Delhi NCR,Mobile,2025-10-13,9054,215,1467.59,7,12567.43
+CMP-1004,Wedding Season Edit,Influencer Marketing,Chennai,Mobile,2025-10-13,7568,238,1063.41,10,18389.08
+CMP-1004,Wedding Season Edit,Instagram Ads,Pune,Mobile,2025-10-13,14181,414,3632.02,15,29402.8
+CMP-1004,Wedding Season Edit,Instagram Ads,Mumbai,Mobile,2025-10-13,17417,501,3073.44,15,25213.99
+CMP-1004,Wedding Season Edit,Instagram Ads,Chennai,Mobile,2025-10-13,16010,318,2948.33,11,24940.83
+CMP-1004,Wedding Season Edit,Instagram Ads,Delhi NCR,Desktop,2025-10-13,16505,456,3588.63,17,32364.76
+CMP-1004,Wedding Season Edit,Instagram Ads,Kolkata,Desktop,2025-10-13,19094,491,4326.17,17,29188.04
+CMP-1005,Diwali Mega Sale,Email Marketing,Pune,Mobile,2025-10-13,5531,423,1217.74,28,58834.85
+CMP-1005,Diwali Mega Sale,Email Marketing,Mumbai,Desktop,2025-10-13,5859,346,1417.74,30,63835.44
+CMP-1005,Diwali Mega Sale,Influencer Marketing,Mumbai,Mobile,2025-10-13,10974,267,1936.56,10,22389.49
+CMP-1005,Diwali Mega Sale,Influencer Marketing,Pune,Tablet,2025-10-13,7465,223,1629.67,7,12578.7
+CMP-1005,Diwali Mega Sale,Influencer Marketing,Bengaluru,Tablet,2025-10-13,8131,235,1247.49,9,17669.6
+CMP-1005,Diwali Mega Sale,Instagram Ads,Mumbai,Mobile,2025-10-13,21005,573,4324.2,18,36415.23
+CMP-1005,Diwali Mega Sale,Instagram Ads,Bengaluru,Desktop,2025-10-13,12424,329,3493.17,9,20819.86
+CMP-1005,Diwali Mega Sale,Instagram Ads,Pune,Mobile,2025-10-13,17882,529,3799.41,19,42259.09
+CMP-1005,Diwali Mega Sale,YouTube Ads,Bengaluru,Desktop,2025-10-13,32021,348,1632.37,8,16294.73
+CMP-1005,Diwali Mega Sale,YouTube Ads,Mumbai,Tablet,2025-10-13,23766,230,1195.66,4,7772.11
+CMP-1005,Diwali Mega Sale,YouTube Ads,Pune,Mobile,2025-10-13,22040,252,758.75,3,6154.82
+CMP-1004,Wedding Season Edit,Facebook Ads,Chennai,Tablet,2025-10-20,18090,249,1682.34,7,12855.04
+CMP-1004,Wedding Season Edit,Facebook Ads,Mumbai,Mobile,2025-10-20,20894,489,2544.14,14,26078.13
+CMP-1004,Wedding Season Edit,Facebook Ads,Delhi NCR,Mobile,2025-10-20,20189,390,2346.54,12,21607.98
+CMP-1004,Wedding Season Edit,Facebook Ads,Pune,Mobile,2025-10-20,23966,537,4345.7,12,25131.53
+CMP-1004,Wedding Season Edit,Influencer Marketing,Pune,Mobile,2025-10-20,10220,314,1510.57,10,16907.49
+CMP-1004,Wedding Season Edit,Influencer Marketing,Delhi NCR,Tablet,2025-10-20,6631,216,885.67,8,17093.35
+CMP-1004,Wedding Season Edit,Influencer Marketing,Kolkata,Desktop,2025-10-20,5808,142,1118.96,5,10258.74
+CMP-1004,Wedding Season Edit,Influencer Marketing,Mumbai,Mobile,2025-10-20,11177,320,2750.17,10,20723.78
+CMP-1004,Wedding Season Edit,Influencer Marketing,Chennai,Mobile,2025-10-20,9110,298,1973.09,12,23138.28
+CMP-1004,Wedding Season Edit,Instagram Ads,Delhi NCR,Mobile,2025-10-20,20641,438,3081.33,12,19046.67
+CMP-1004,Wedding Season Edit,Instagram Ads,Chennai,Mobile,2025-10-20,11406,368,2963.31,12,23280.05
+CMP-1004,Wedding Season Edit,Instagram Ads,Mumbai,Mobile,2025-10-20,14003,363,2369.41,14,22801.49
+CMP-1004,Wedding Season Edit,Instagram Ads,Pune,Mobile,2025-10-20,14142,308,3287.04,10,16198.85
+CMP-1004,Wedding Season Edit,Instagram Ads,Kolkata,Mobile,2025-10-20,20670,444,3388.39,16,34318.31
+CMP-1005,Diwali Mega Sale,Email Marketing,Mumbai,Mobile,2025-10-20,3720,187,537.32,18,38525.39
+CMP-1005,Diwali Mega Sale,Email Marketing,Pune,Mobile,2025-10-20,3855,241,804.79,19,39754.99
+CMP-1005,Diwali Mega Sale,Email Marketing,Bengaluru,Mobile,2025-10-20,3659,254,662.52,18,39508.9
+CMP-1005,Diwali Mega Sale,Influencer Marketing,Mumbai,Mobile,2025-10-20,9694,282,2119.11,11,23052.62
+CMP-1005,Diwali Mega Sale,Influencer Marketing,Bengaluru,Mobile,2025-10-20,9275,218,1383.23,7,12882.7
+CMP-1005,Diwali Mega Sale,Influencer Marketing,Pune,Mobile,2025-10-20,10696,251,1671.04,11,22627.83
+CMP-1005,Diwali Mega Sale,Instagram Ads,Mumbai,Desktop,2025-10-20,10123,228,1762.1,8,16314.8
+CMP-1005,Diwali Mega Sale,Instagram Ads,Pune,Mobile,2025-10-20,13976,279,1890.86,8,17287.79
+CMP-1005,Diwali Mega Sale,Instagram Ads,Bengaluru,Tablet,2025-10-20,17899,507,4593.5,21,50480.11
+CMP-1005,Diwali Mega Sale,YouTube Ads,Pune,Mobile,2025-10-20,25966,247,1131.69,5,9705.62
+CMP-1005,Diwali Mega Sale,YouTube Ads,Mumbai,Mobile,2025-10-20,19309,143,444.91,3,5916.32
+CMP-1005,Diwali Mega Sale,YouTube Ads,Bengaluru,Desktop,2025-10-20,22022,174,582.87,4,8837.31
+CMP-1005,Diwali Mega Sale,Email Marketing,Pune,Mobile,2025-10-27,3994,229,657.24,15,24635.85
+CMP-1005,Diwali Mega Sale,Email Marketing,Bengaluru,Mobile,2025-10-27,4490,274,990.35,24,44437.19
+CMP-1005,Diwali Mega Sale,Email Marketing,Mumbai,Desktop,2025-10-27,4567,295,1073.88,25,55167.94
+CMP-1005,Diwali Mega Sale,Influencer Marketing,Bengaluru,Desktop,2025-10-27,9613,278,1248.57,9,17743.77
+CMP-1005,Diwali Mega Sale,Influencer Marketing,Pune,Mobile,2025-10-27,8906,253,1695.45,10,22791.69
+CMP-1005,Diwali Mega Sale,Influencer Marketing,Mumbai,Mobile,2025-10-27,10374,369,2912.6,10,21315.04
+CMP-1005,Diwali Mega Sale,Instagram Ads,Pune,Mobile,2025-10-27,14760,444,4354.08,15,29646.58
+CMP-1005,Diwali Mega Sale,Instagram Ads,Bengaluru,Mobile,2025-10-27,16325,526,4679.2,18,37907.02
+CMP-1005,Diwali Mega Sale,Instagram Ads,Mumbai,Desktop,2025-10-27,18127,376,2794.36,9,20498.65
+CMP-1005,Diwali Mega Sale,YouTube Ads,Pune,Tablet,2025-10-27,23993,250,877.84,5,9121.3
+CMP-1005,Diwali Mega Sale,YouTube Ads,Mumbai,Desktop,2025-10-27,36337,281,1745.16,5,10439.22
+CMP-1005,Diwali Mega Sale,YouTube Ads,Bengaluru,Tablet,2025-10-27,20788,274,1380.5,6,12869.83
+CMP-1006,Rakhi Special,Facebook Ads,Delhi NCR,Desktop,2025-10-27,24381,604,3916.62,17,23681.79
+CMP-1006,Rakhi Special,Facebook Ads,Hyderabad,Mobile,2025-10-27,15062,293,1579.12,7,8989.95
+CMP-1006,Rakhi Special,Facebook Ads,Kolkata,Tablet,2025-10-27,19324,348,2783.18,10,12533.84
+CMP-1006,Rakhi Special,Google Ads,Kolkata,Tablet,2025-10-27,10784,389,3863.52,18,26210.43
+CMP-1006,Rakhi Special,Google Ads,Hyderabad,Desktop,2025-10-27,11003,366,3351.0,19,33119.12
+CMP-1006,Rakhi Special,Google Ads,Delhi NCR,Desktop,2025-10-27,10269,485,4376.19,27,35407.93
+CMP-1006,Rakhi Special,Influencer Marketing,Hyderabad,Desktop,2025-10-27,6134,182,1100.0,6,8097.91
+CMP-1006,Rakhi Special,Influencer Marketing,Kolkata,Desktop,2025-10-27,7697,233,1804.04,7,8424.05
+CMP-1006,Rakhi Special,Influencer Marketing,Delhi NCR,Mobile,2025-10-27,9793,255,1401.2,11,17076.59
+CMP-1006,Rakhi Special,Instagram Ads,Kolkata,Mobile,2025-10-27,18886,575,4587.15,23,28342.09
+CMP-1006,Rakhi Special,Instagram Ads,Delhi NCR,Desktop,2025-10-27,16762,331,2804.24,13,20110.69
+CMP-1006,Rakhi Special,Instagram Ads,Hyderabad,Mobile,2025-10-27,21252,563,4234.09,16,26735.69
+CMP-1005,Diwali Mega Sale,Email Marketing,Pune,Mobile,2025-11-03,5675,397,1560.66,35,68344.75
+CMP-1005,Diwali Mega Sale,Email Marketing,Bengaluru,Mobile,2025-11-03,6681,419,1813.58,35,71838.91
+CMP-1005,Diwali Mega Sale,Email Marketing,Mumbai,Desktop,2025-11-03,3683,202,761.11,15,27091.57
+CMP-1005,Diwali Mega Sale,Influencer Marketing,Mumbai,Mobile,2025-11-03,8486,314,1633.83,9,18771.91
+CMP-1005,Diwali Mega Sale,Influencer Marketing,Pune,Mobile,2025-11-03,8280,208,1338.09,8,14529.86
+CMP-1005,Diwali Mega Sale,Instagram Ads,Mumbai,Desktop,2025-11-03,16684,350,2933.16,11,19688.63
+CMP-1005,Diwali Mega Sale,Instagram Ads,Bengaluru,Mobile,2025-11-03,13235,400,3673.07,13,29647.29
+CMP-1005,Diwali Mega Sale,Instagram Ads,Pune,Mobile,2025-11-03,15197,348,2122.43,11,22538.64
+CMP-1005,Diwali Mega Sale,YouTube Ads,Mumbai,Tablet,2025-11-03,25442,245,1028.98,4,8249.52
+CMP-1005,Diwali Mega Sale,YouTube Ads,Bengaluru,Mobile,2025-11-03,24043,163,822.15,4,8195.02
+CMP-1005,Diwali Mega Sale,YouTube Ads,Pune,Desktop,2025-11-03,19973,245,1066.96,4,8074.93
+CMP-1006,Rakhi Special,Facebook Ads,Hyderabad,Mobile,2025-11-03,14843,255,1831.38,6,9302.44
+CMP-1006,Rakhi Special,Facebook Ads,Kolkata,Tablet,2025-11-03,16164,230,1068.24,5,7300.98
+CMP-1006,Rakhi Special,Facebook Ads,Delhi NCR,Desktop,2025-11-03,24753,450,2831.9,13,20089.48
+CMP-1006,Rakhi Special,Google Ads,Delhi NCR,Mobile,2025-11-03,11211,539,7312.7,30,42966.0
+CMP-1006,Rakhi Special,Google Ads,Kolkata,Mobile,2025-11-03,16446,687,11008.13,43,62983.36
+CMP-1006,Rakhi Special,Google Ads,Hyderabad,Mobile,2025-11-03,11565,448,5143.82,23,35453.08
+CMP-1006,Rakhi Special,Influencer Marketing,Kolkata,Mobile,2025-11-03,9904,9904,1341.96,12,17070.67
+CMP-1006,Rakhi Special,Influencer Marketing,Delhi NCR,Mobile,2025-11-03,7984,229,955.92,9,10075.35
+CMP-1006,Rakhi Special,Influencer Marketing,Hyderabad,Mobile,2025-11-03,8802,289,1326.25,12,17688.45
+CMP-1006,Rakhi Special,Instagram Ads,Kolkata,Mobile,2025-11-03,13048,471,3759.06,17,21900.69
+CMP-1006,Rakhi Special,Instagram Ads,Delhi NCR,Mobile,2025-11-03,11507,388,3758.81,13,22103.09
+CMP-1006,Rakhi Special,Instagram Ads,Hyderabad,Mobile,2025-11-03,16740,373,2259.76,12,18558.86
+CMP-1006,Rakhi Special,Facebook Ads,Kolkata,Desktop,2025-11-10,12853,241,1475.72,6,8513.22
+CMP-1006,Rakhi Special,Facebook Ads,Hyderabad,Mobile,2025-11-10,17270,342,2469.97,11,17097.0
+CMP-1006,Rakhi Special,Facebook Ads,Delhi NCR,Desktop,2025-11-10,18172,340,2363.68,9,15822.97
+CMP-1006,Rakhi Special,Google Ads,Kolkata,Desktop,2025-11-10,15822,629,6392.08,33,32679.71
+CMP-1006,Rakhi Special,Google Ads,Delhi NCR,Mobile,2025-11-10,8835,407,4513.61,18,29127.2
+CMP-1006,Rakhi Special,Google Ads,Hyderabad,Mobile,2025-11-10,15818,483,5915.84,28,39075.55
+CMP-1006,Rakhi Special,Influencer Marketing,Kolkata,Mobile,2025-11-10,6902,148,1065.43,5,8346.89
+CMP-1006,Rakhi Special,Influencer Marketing,Hyderabad,Mobile,2025-11-10,9138,226,1561.58,7,12078.75
+CMP-1006,Rakhi Special,Influencer Marketing,Delhi NCR,Mobile,2025-11-10,6789,246,1142.67,10,13395.88
+CMP-1006,Rakhi Special,Instagram Ads,Delhi NCR,Mobile,2025-11-10,16808,371,2385.69,11,15919.69
+CMP-1006,Rakhi Special,Instagram Ads,Hyderabad,Mobile,2025-11-10,14376,358,3408.41,12,16154.74
+CMP-1007,Festive Glow Up,Email Marketing,Mumbai,Mobile,2025-11-17,3654,175,741.15,17,28912.62
+CMP-1007,Festive Glow Up,Email Marketing,Pune,Mobile,2025-11-17,3638,236,665.26,21,40920.01
+CMP-1007,Festive Glow Up,Email Marketing,Hyderabad,Mobile,2025-11-17,5037,367,1005.67,22,35238.33
+CMP-1007,Festive Glow Up,Google Ads,Mumbai,Mobile,2025-11-17,16154,648,7214.24,37,67876.92
+CMP-1007,Festive Glow Up,Google Ads,Pune,Desktop,2025-11-17,11954,408,4202.17,16,24500.43
+CMP-1007,Festive Glow Up,Influencer Marketing,Mumbai,Desktop,2025-11-17,8353,272,1985.24,12,22821.76
+CMP-1007,Festive Glow Up,Influencer Marketing,Pune,Mobile,2025-11-17,10275,376,2640.72,12,18701.87
+CMP-1007,Festive Glow Up,Influencer Marketing,Hyderabad,Mobile,2025-11-17,7516,264,1172.98,12,23954.18
+CMP-1007,Festive Glow Up,Instagram Ads,Mumbai,Tablet,2025-11-17,13827,293,2883.02,11,20046.24
+CMP-1007,Festive Glow Up,Instagram Ads,Hyderabad,Mobile,2025-11-17,14193,403,4080.95,11,14449.11
+CMP-1007,Festive Glow Up,Instagram Ads,Pune,Mobile,2025-11-17,15838,499,3071.38,15,22191.52
+CMP-1007,Festive Glow Up,YouTube Ads,Hyderabad,Mobile,2025-11-17,23021,192,998.73,4,7056.39
+CMP-1007,Festive Glow Up,YouTube Ads,Mumbai,Mobile,2025-11-17,24286,187,594.29,4,7387.15
+CMP-1007,Festive Glow Up,YouTube Ads,Pune,Tablet,2025-11-17,27356,258,1084.42,6,8874.34
+CMP-1007,Festive Glow Up,Email Marketing,Hyderabad,Desktop,2025-11-24,5022,361,1299.15,28,49645.27
+CMP-1007,Festive Glow Up,Email Marketing,Mumbai,Mobile,2025-11-24,5384,339,1039.66,29,52289.94
+CMP-1007,Festive Glow Up,Email Marketing,Pune,Desktop,2025-11-24,2694,157,458.85,13,20440.54
+CMP-1007,Festive Glow Up,Google Ads,Pune,Mobile,2025-11-24,13865,459,4744.25,25,41084.42
+CMP-1007,Festive Glow Up,Google Ads,Mumbai,Mobile,2025-11-24,15157,560,5493.08,23,41343.16
+CMP-1007,Festive Glow Up,Google Ads,Hyderabad,Mobile,2025-11-24,12587,423,5566.9,20,33402.88
+CMP-1007,Festive Glow Up,Influencer Marketing,Pune,Mobile,2025-11-24,10772,402,2954.34,12,18750.55
+CMP-1007,Festive Glow Up,Influencer Marketing,Hyderabad,Mobile,2025-11-24,10563,319,2224.51,13,23228.64
+CMP-1007,Festive Glow Up,Influencer Marketing,Mumbai,Desktop,2025-11-24,5931,197,1538.24,9,16908.53
+CMP-1007,Festive Glow Up,Instagram Ads,Pune,Mobile,2025-11-24,20403,488,3696.84,17,27206.63
+CMP-1007,Festive Glow Up,Instagram Ads,Mumbai,Desktop,2025-11-24,19616,433,3717.1,15,28421.48
+CMP-1007,Festive Glow Up,Instagram Ads,Hyderabad,Mobile,2025-11-24,18778,495,3884.6,17,23678.99
+CMP-1007,Festive Glow Up,YouTube Ads,Mumbai,Mobile,2025-11-24,30437,246,1187.68,5,7572.03
+CMP-1007,Festive Glow Up,YouTube Ads,Pune,Mobile,2025-11-24,32994,376,1309.66,7,12152.76
+CMP-1007,Festive Glow Up,YouTube Ads,Hyderabad,Desktop,2025-11-24,19116,174,927.94,4,6519.5
+CMP-1007,Festive Glow Up,Email Marketing,Mumbai,Mobile,2025-12-01,6632,511,2003.95,41,73022.89
+CMP-1007,Festive Glow Up,Email Marketing,Hyderabad,Mobile,2025-12-01,4377,298,750.28,21,40738.34
+CMP-1007,Festive Glow Up,Email Marketing,Pune,Desktop,2025-12-01,5406,356,1170.16,25,45986.37
+CMP-1007,Festive Glow Up,Google Ads,Hyderabad,Tablet,2025-12-01,14982,671,5842.6,35,50992.02
+CMP-1007,Festive Glow Up,Google Ads,Pune,Mobile,2025-12-01,11757,578,5174.17,30,40475.43
+CMP-1007,Festive Glow Up,Google Ads,Mumbai,Mobile,2025-12-01,10617,366,4672.64,20,23009.86
+CMP-1007,Festive Glow Up,Influencer Marketing,Hyderabad,Tablet,2025-12-01,9026,327,1798.05,14,26390.08
+CMP-1007,Festive Glow Up,Influencer Marketing,Mumbai,Desktop,2025-12-01,9320,227,995.83,8,14342.8
+CMP-1007,Festive Glow Up,Influencer Marketing,Pune,Mobile,2025-12-01,8440,212,1333.98,8,16308.57
+CMP-1007,Festive Glow Up,Instagram Ads,Hyderabad,Desktop,2025-12-01,15806,494,4484.02,15,25827.34
+CMP-1007,Festive Glow Up,Instagram Ads,Pune,Mobile,2025-12-01,16800,495,4109.14,15,22316.86
+CMP-1007,Festive Glow Up,YouTube Ads,Mumbai,Mobile,2025-12-01,23174,149,431.98,3,5078.58
+CMP-1007,Festive Glow Up,YouTube Ads,Hyderabad,Mobile,2025-12-01,29126,327,1202.12,6,11180.85
+CMP-1007,Festive Glow Up,YouTube Ads,Pune,Mobile,2025-12-01,33077,408,1247.19,7,11203.52
+CMP-1007,Festive Glow Up,Email Marketing,Mumbai,Mobile,2025-12-08,3868,273,868.45,30,41303.29
+CMP-1007,Festive Glow Up,Email Marketing,Pune,Desktop,2025-12-08,5431,331,1474.88,20,27724.83
+CMP-1007,Festive Glow Up,Email Marketing,Hyderabad,Mobile,2025-12-08,5772,435,1191.21,37,58174.01
+CMP-1007,Festive Glow Up,Google Ads,Mumbai,Mobile,2025-12-08,8541,346,4476.53,16,24819.62
+CMP-1007,Festive Glow Up,Google Ads,Hyderabad,Mobile,2025-12-08,11799,453,5911.57,23,42094.79
+CMP-1007,Festive Glow Up,Google Ads,Pune,Mobile,2025-12-08,12862,516,4298.42,29,50636.34
+CMP-1007,Festive Glow Up,Influencer Marketing,Mumbai,Desktop,2025-12-08,6650,249,1041.13,11,20092.91
+CMP-1007,Festive Glow Up,Influencer Marketing,Pune,Tablet,2025-12-08,7278,259,1479.14,10,17336.26
+CMP-1007,Festive Glow Up,Influencer Marketing,Hyderabad,Mobile,2025-12-08,6252,173,670.7,5,6155.68
+CMP-1007,Festive Glow Up,Instagram Ads,Pune,Desktop,2025-12-08,11150,272,2238.11,9,13712.81
+CMP-1007,Festive Glow Up,Instagram Ads,Mumbai,Mobile,2025-12-08,19565,587,3611.35,17,23564.14
+CMP-1007,Festive Glow Up,YouTube Ads,Pune,Mobile,2025-12-08,24423,199,742.85,3,5631.46
+CMP-1007,Festive Glow Up,YouTube Ads,Hyderabad,Desktop,2025-12-08,30173,354,1775.0,5,8723.43
+CMP-1007,Festive Glow Up,YouTube Ads,Mumbai,Mobile,2025-12-08,19597,236,1112.86,4,7169.04
+CMP-1008,Year End Clearance,Google Ads,Hyderabad,Mobile,2025-12-15,13646,494,6774.24,25,36155.74
+CMP-1008,Year End Clearance,Google Ads,Delhi NCR,Desktop,2025-12-15,12956,495,4294.51,29,35868.93
+CMP-1008,Year End Clearance,Instagram Ads,Delhi NCR,Mobile,2025-12-15,13850,490,3838.57,17,21866.68
+CMP-1008,Year End Clearance,Instagram Ads,Pune,Mobile,2025-12-15,16687,443,4231.49,18,19749.2
+CMP-1008,Year End Clearance,Instagram Ads,Hyderabad,Desktop,2025-12-15,13587,386,2702.3,14,21975.71
+CMP-1008,Year End Clearance,YouTube Ads,Delhi NCR,Mobile,2025-12-15,29888,290,1715.69,5,7134.54
+CMP-1008,Year End Clearance,YouTube Ads,Hyderabad,Desktop,2025-12-15,21535,268,1280.29,4,4639.37
+CMP-1008,Year End Clearance,YouTube Ads,Pune,Mobile,2025-12-15,24938,294,1677.45,5,5861.2
+CMP-1008,Year End Clearance,Google Ads,Pune,Mobile,2025-12-22,13742,521,6578.41,23,29520.31
+CMP-1008,Year End Clearance,Google Ads,Hyderabad,Mobile,2025-12-22,11918,559,5276.52,30,35576.91
+CMP-1008,Year End Clearance,Google Ads,Delhi NCR,Mobile,2025-12-22,11971,536,6963.59,23,26560.59
+CMP-1008,Year End Clearance,Instagram Ads,Hyderabad,Tablet,2025-12-22,17331,548,4585.95,16,23002.85
+CMP-1008,Year End Clearance,Instagram Ads,Pune,Mobile,2025-12-22,11316,365,3171.88,13,13667.19
+CMP-1008,Year End Clearance,YouTube Ads,Pune,Mobile,2025-12-22,19257,157,533.14,3,3992.74
+CMP-1008,Year End Clearance,YouTube Ads,Hyderabad,Mobile,2025-12-22,30238,400,2044.5,7,9885.37
+CMP-1008,Year End Clearance,YouTube Ads,Delhi NCR,Desktop,2025-12-22,23700,273,1014.25,4,5535.25
+CMP-1008,Year End Clearance,Google Ads,Hyderabad,Mobile,2025-12-29,12439,540,4985.58,26,31954.12
+CMP-1008,Year End Clearance,Google Ads,Pune,Mobile,2025-12-29,15508,517,7805.73,20,28559.54
+CMP-1008,Year End Clearance,Google Ads,Delhi NCR,Mobile,2025-12-29,13297,664,5594.72,38,40436.6
+CMP-1008,Year End Clearance,Instagram Ads,Pune,Mobile,2025-12-29,17389,555,4877.11,21,26561.32
+CMP-1008,Year End Clearance,Instagram Ads,Hyderabad,Mobile,2025-12-29,15310,515,4052.87,17,20546.64
+CMP-1008,Year End Clearance,Instagram Ads,Delhi NCR,Mobile,2025-12-29,16494,474,3134.68,15,19875.05
+CMP-1008,Year End Clearance,YouTube Ads,Delhi NCR,Mobile,2025-12-29,26711,358,1728.49,6,6342.51
+CMP-1008,Year End Clearance,YouTube Ads,Pune,Desktop,2025-12-29,36158,271,1266.94,4,5169.03
+CMP-1008,Year End Clearance,YouTube Ads,Hyderabad,Desktop,2025-12-29,27243,335,1402.9,8,10134.32
+CMP-1008,Year End Clearance,Google Ads,Hyderabad,Mobile,2026-01-05,14888,648,6588.26,30,44075.54
+CMP-1008,Year End Clearance,Google Ads,Delhi NCR,Desktop,2026-01-05,11847,434,4056.59,20,28253.77
+CMP-1008,Year End Clearance,Google Ads,Pune,Mobile,2026-01-05,15645,612,8527.08,29,44158.59
+CMP-1008,Year End Clearance,Instagram Ads,Delhi NCR,Mobile,2026-01-05,13974,401,3084.24,13,15313.06
+CMP-1008,Year End Clearance,Instagram Ads,Hyderabad,Mobile,2026-01-05,20432,447,2596.03,12,18484.92
+CMP-1008,Year End Clearance,Instagram Ads,Pune,Mobile,2026-01-05,17072,369,3752.73,15,21053.33
+CMP-1008,Year End Clearance,YouTube Ads,Pune,Mobile,2026-01-05,21797,295,1401.1,4,5766.55
+CMP-1008,Year End Clearance,YouTube Ads,Hyderabad,Mobile,2026-01-05,20607,258,1314.15,6,7599.75
+CMP-1008,Year End Clearance,YouTube Ads,Delhi NCR,Mobile,2026-01-05,32925,243,1175.93,6,7470.66
+CMP-1009,New Year New You,Email Marketing,Chennai,Desktop,2026-01-05,3787,219,791.83,17,25236.44
+CMP-1009,New Year New You,Email Marketing,Mumbai,Mobile,2026-01-05,5801,320,880.77,22,29585.77
+CMP-1009,New Year New You,Email Marketing,Hyderabad,Mobile,2026-01-05,5392,351,1333.11,25,37618.85
+CMP-1009,New Year New You,Email Marketing,Kolkata,Mobile,2026-01-05,4335,210,820.27,17,26331.69
+CMP-1009,New Year New You,Email Marketing,Pune,Mobile,2026-01-05,5110,424,1708.96,28,40195.37
+CMP-1009,New Year New You,Facebook Ads,Kolkata,Mobile,2026-01-05,20881,420,3307.63,9,14595.91
+CMP-1009,New Year New You,Facebook Ads,Chennai,Tablet,2026-01-05,15267,270,1929.24,5,7226.13
+CMP-1009,New Year New You,Facebook Ads,Hyderabad,Mobile,2026-01-05,21812,356,2259.09,10,14668.42
+CMP-1009,New Year New You,Facebook Ads,Pune,Mobile,2026-01-05,15286,278,2042.21,8,12357.41
+CMP-1009,New Year New You,Facebook Ads,Mumbai,Mobile,2026-01-05,22067,355,2295.8,8,11182.91
+CMP-1009,New Year New You,YouTube Ads,Pune,Mobile,2026-01-05,33160,361,1518.79,6,8322.67
+CMP-1009,New Year New You,YouTube Ads,Mumbai,Mobile,2026-01-05,36936,291,1041.09,5,5989.67
+CMP-1009,New Year New You,YouTube Ads,Hyderabad,Mobile,2026-01-05,35982,443,2336.82,8,9898.84
+CMP-1009,New Year New You,YouTube Ads,Kolkata,Mobile,2026-01-05,37458,357,1248.62,7,10255.49
+CMP-1009,New Year New You,Email Marketing,Chennai,Mobile,2026-01-12,5143,269,920.0,16,25166.86
+CMP-1009,New Year New You,Email Marketing,Kolkata,Mobile,2026-01-12,4441,320,1122.19,23,34908.18
+CMP-1009,New Year New You,Email Marketing,Mumbai,Desktop,2026-01-12,4692,347,1169.82,21,31638.49
+CMP-1009,New Year New You,Email Marketing,Pune,Mobile,2026-01-12,3499,165,570.77,11,19510.95
+CMP-1009,New Year New You,Email Marketing,Hyderabad,Desktop,2026-01-12,3880,194,767.44,14,20382.57
+CMP-1009,New Year New You,Facebook Ads,Kolkata,Desktop,2026-01-12,20719,285,2683.68,6,7899.78
+CMP-1009,New Year New You,Facebook Ads,Chennai,Desktop,2026-01-12,14514,286,1629.44,7,10794.29
+CMP-1009,New Year New You,Facebook Ads,Mumbai,Mobile,2026-01-12,17792,262,1457.1,7,12252.29
+CMP-1009,New Year New You,Facebook Ads,Pune,Mobile,2026-01-12,20959,492,3690.74,16,24414.29
+CMP-1009,New Year New You,Facebook Ads,Hyderabad,Mobile,2026-01-12,23397,507,4172.77,12,16399.06
+CMP-1009,New Year New You,YouTube Ads,Pune,Mobile,2026-01-12,27584,258,1022.81,6,10638.86
+CMP-1009,New Year New You,YouTube Ads,Hyderabad,Desktop,2026-01-12,33562,306,974.51,5,8791.78
+CMP-1009,New Year New You,YouTube Ads,Mumbai,Mobile,2026-01-12,28164,240,998.74,4,6901.23
+CMP-1009,New Year New You,YouTube Ads,Chennai,Mobile,2026-01-12,28483,314,1238.8,7,11958.51
+CMP-1009,New Year New You,YouTube Ads,Kolkata,Mobile,2026-01-12,31115,401,2388.51,8,11819.93
+CMP-1009,New Year New You,Email Marketing,Pune,Mobile,2026-01-19,4474,339,975.42,31,48699.23
+CMP-1009,New Year New You,Email Marketing,Mumbai,Mobile,2026-01-19,3869,220,844.1,17,29743.98
+CMP-1009,New Year New You,Email Marketing,Chennai,Mobile,2026-01-19,4109,344,1208.24,34,40914.04
+CMP-1009,New Year New You,Email Marketing,Kolkata,Mobile,2026-01-19,3902,315,1304.99,19,27753.78
+CMP-1009,New Year New You,Email Marketing,Hyderabad,Tablet,2026-01-19,4591,312,1199.51,29,43865.95
+CMP-1009,New Year New You,Facebook Ads,Mumbai,Mobile,2026-01-19,17276,325,2593.43,9,13934.07
+CMP-1009,New Year New You,Facebook Ads,Pune,Mobile,2026-01-19,15769,377,2182.1,12,19775.42
+CMP-1009,New Year New You,Facebook Ads,Kolkata,Desktop,2026-01-19,20251,438,3676.86,9,13161.71
+CMP-1009,New Year New You,Facebook Ads,Chennai,Mobile,2026-01-19,23536,460,2897.04,11,14383.53
+CMP-1009,New Year New You,Facebook Ads,Hyderabad,Mobile,2026-01-19,20064,20064,2274.1,9,13430.11
+CMP-1009,New Year New You,YouTube Ads,Mumbai,Mobile,2026-01-19,26558,238,1019.92,4,7993.93
+CMP-1009,New Year New You,YouTube Ads,Kolkata,Mobile,2026-01-19,29537,239,1019.44,5,5335.24
+CMP-1009,New Year New You,YouTube Ads,Pune,Mobile,2026-01-19,22167,281,1279.87,5,7187.62
+CMP-1009,New Year New You,YouTube Ads,Chennai,Mobile,2026-01-19,39297,561,2553.64,10,14710.19
+CMP-1009,New Year New You,YouTube Ads,Hyderabad,Tablet,2026-01-19,23308,300,1678.62,6,7511.79
+CMP-1010,Republic Day Sale,Email Marketing,Hyderabad,Mobile,2026-01-19,4279,330,1472.42,29,39483.66
+CMP-1010,Republic Day Sale,Email Marketing,Chennai,Desktop,2026-01-19,5183,312,844.89,26,37580.31
+CMP-1010,Republic Day Sale,Email Marketing,Mumbai,Mobile,2026-01-19,5090,301,1095.58,28,41656.68
+CMP-1010,Republic Day Sale,Facebook Ads,Chennai,Mobile,2026-01-19,23022,324,1918.57,8,11823.47
+CMP-1010,Republic Day Sale,Facebook Ads,Hyderabad,Desktop,2026-01-19,21030,331,1521.17,8,11127.83
+CMP-1010,Republic Day Sale,Facebook Ads,Mumbai,Mobile,2026-01-19,17595,245,1888.24,5,5657.83
+CMP-1010,Republic Day Sale,Google Ads,Hyderabad,Mobile,2026-01-19,9671,368,4069.01,14,14513.62
+CMP-1010,Republic Day Sale,Google Ads,Mumbai,Desktop,2026-01-19,8921,327,5085.9,16,19041.7
+CMP-1010,Republic Day Sale,Google Ads,Chennai,Tablet,2026-01-19,12332,505,7468.54,27,42173.93
+CMP-1010,Republic Day Sale,Influencer Marketing,Hyderabad,Mobile,2026-01-19,8741,299,2548.86,13,19057.46
+CMP-1010,Republic Day Sale,Influencer Marketing,Mumbai,Mobile,2026-01-19,7977,268,1100.43,8,11406.64
+CMP-1010,Republic Day Sale,Influencer Marketing,Chennai,Mobile,2026-01-19,6854,175,1157.48,6,8913.1
+CMP-1010,Republic Day Sale,YouTube Ads,Chennai,Mobile,2026-01-19,24756,361,1268.06,8,8088.1
+CMP-1010,Republic Day Sale,YouTube Ads,Hyderabad,Mobile,2026-01-19,27912,392,1552.36,9,14466.51
+CMP-1010,Republic Day Sale,YouTube Ads,Mumbai,Mobile,2026-01-19,21927,181,767.27,3,4092.84
+CMP-1009,New Year New You,Email Marketing,Pune,Mobile,2026-01-26,2819,194,835.93,17,26535.18
+CMP-1009,New Year New You,Email Marketing,Chennai,Mobile,2026-01-26,6009,500,1520.42,53,71725.82
+CMP-1009,New Year New You,Email Marketing,Mumbai,Mobile,2026-01-26,4199,288,900.47,24,36798.91
+CMP-1009,New Year New You,Email Marketing,Kolkata,Desktop,2026-01-26,3334,187,612.57,13,17992.71
+CMP-1009,New Year New You,Email Marketing,Hyderabad,Tablet,2026-01-26,4470,310,821.06,28,44027.98
+CMP-1009,New Year New You,Facebook Ads,Chennai,Desktop,2026-01-26,17939,443,2118.38,12,11918.76
+CMP-1009,New Year New You,Facebook Ads,Mumbai,Desktop,2026-01-26,23138,501,3836.91,11,14823.62
+CMP-1009,New Year New You,Facebook Ads,Pune,Mobile,2026-01-26,21775,493,3706.52,15,23608.5
+CMP-1009,New Year New You,Facebook Ads,Kolkata,Desktop,2026-01-26,13758,197,1778.02,5,8146.7
+CMP-1009,New Year New You,Facebook Ads,Hyderabad,Desktop,2026-01-26,24117,429,2541.7,14,17838.36
+CMP-1009,New Year New You,YouTube Ads,Kolkata,Tablet,2026-01-26,31241,269,1504.21,5,8077.06
+CMP-1009,New Year New You,YouTube Ads,Hyderabad,Desktop,2026-01-26,24420,176,980.03,4,4726.6
+CMP-1009,New Year New You,YouTube Ads,Chennai,Desktop,2026-01-26,29085,327,1730.2,7,10624.08
+CMP-1009,New Year New You,YouTube Ads,Mumbai,Desktop,2026-01-26,18832,172,700.23,2,2727.53
+CMP-1010,Republic Day Sale,Email Marketing,Hyderabad,Desktop,2026-01-26,4446,255,670.55,23,29749.59
+CMP-1010,Republic Day Sale,Email Marketing,Mumbai,Mobile,2026-01-26,4004,299,902.14,28,34860.28
+CMP-1010,Republic Day Sale,Email Marketing,Chennai,Mobile,2026-01-26,5509,307,1171.92,20,33051.57
+CMP-1010,Republic Day Sale,Facebook Ads,Hyderabad,Mobile,2026-01-26,19114,390,2007.39,9,11426.46
+CMP-1010,Republic Day Sale,Facebook Ads,Mumbai,Mobile,2026-01-26,25231,419,2736.55,8,11658.92
+CMP-1010,Republic Day Sale,Google Ads,Hyderabad,Desktop,2026-01-26,8776,295,3012.57,16,22693.54
+CMP-1010,Republic Day Sale,Google Ads,Chennai,Desktop,2026-01-26,8327,442,6239.86,24,41977.55
+CMP-1010,Republic Day Sale,Google Ads,Mumbai,Mobile,2026-01-26,12342,482,5039.48,22,32866.05
+CMP-1010,Republic Day Sale,Influencer Marketing,Mumbai,Mobile,2026-01-26,10273,345,1526.56,12,17620.01
+CMP-1010,Republic Day Sale,Influencer Marketing,Chennai,Mobile,2026-01-26,9692,375,2590.86,10,14812.01
+CMP-1010,Republic Day Sale,Influencer Marketing,Hyderabad,Mobile,2026-01-26,7147,216,798.72,7,12101.77
+CMP-1010,Republic Day Sale,YouTube Ads,Chennai,Tablet,2026-01-26,24943,333,1143.86,5,7896.37
+CMP-1010,Republic Day Sale,YouTube Ads,Mumbai,Desktop,2026-01-26,30204,332,986.22,6,8493.69
+CMP-1010,Republic Day Sale,YouTube Ads,Hyderabad,Mobile,2026-01-26,30862,300,1382.67,6,9472.61
+CMP-1010,Republic Day Sale,Email Marketing,Chennai,Desktop,2026-02-02,5294,298,1133.92,27,46831.43
+CMP-1010,Republic Day Sale,Email Marketing,Hyderabad,Mobile,2026-02-02,3109,180,629.16,15,20085.82
+CMP-1010,Republic Day Sale,Email Marketing,Mumbai,Mobile,2026-02-02,5549,403,1828.98,25,30579.26
+CMP-1010,Republic Day Sale,Facebook Ads,Mumbai,Mobile,2026-02-02,18385,289,2278.09,7,8870.98
+CMP-1010,Republic Day Sale,Facebook Ads,Hyderabad,Desktop,2026-02-02,16898,422,2997.54,9,11697.07
+CMP-1010,Republic Day Sale,Facebook Ads,Chennai,Desktop,2026-02-02,16059,357,2413.4,9,16435.05
+CMP-1010,Republic Day Sale,Google Ads,Hyderabad,Mobile,2026-02-02,15412,499,5927.22,26,37789.61
+CMP-1010,Republic Day Sale,Google Ads,Mumbai,Mobile,2026-02-02,14729,728,11044.52,39,59539.73
+CMP-1010,Republic Day Sale,Google Ads,Chennai,Mobile,2026-02-02,12286,517,7152.43,24,41211.38
+CMP-1010,Republic Day Sale,Influencer Marketing,Hyderabad,Mobile,2026-02-02,9180,378,2609.41,13,23586.88
+CMP-1010,Republic Day Sale,Influencer Marketing,Mumbai,Mobile,2026-02-02,10378,250,2062.47,12,18671.28
+CMP-1010,Republic Day Sale,Influencer Marketing,Chennai,Desktop,2026-02-02,6454,218,1606.85,7,8432.4
+CMP-1010,Republic Day Sale,YouTube Ads,Chennai,Desktop,2026-02-02,29613,264,800.1,5,6863.68
+CMP-1010,Republic Day Sale,YouTube Ads,Hyderabad,Mobile,2026-02-02,25856,260,740.3,4,6788.45
+CMP-1010,Republic Day Sale,YouTube Ads,Mumbai,Mobile,2026-02-02,30199,360,1073.86,6,8505.18
+CMP-1011,Summer Fresh Collection,Google Ads,Chennai,Mobile,2026-03-02,9749,291,2407.83,13,16617.78
+CMP-1011,Summer Fresh Collection,Google Ads,Pune,Desktop,2026-03-02,14399,455,4535.77,26,37766.8
+CMP-1011,Summer Fresh Collection,Google Ads,Delhi NCR,Mobile,2026-03-02,13489,436,4852.82,21,34258.4
+CMP-1011,Summer Fresh Collection,Influencer Marketing,Pune,Mobile,2026-03-02,11651,273,1808.93,9,14479.38
+CMP-1011,Summer Fresh Collection,Influencer Marketing,Chennai,Tablet,2026-03-02,8882,198,1089.67,6,8211.74
+CMP-1011,Summer Fresh Collection,Influencer Marketing,Delhi NCR,Desktop,2026-03-02,8169,198,732.81,6,9084.06
+CMP-1011,Summer Fresh Collection,Instagram Ads,Chennai,Mobile,2026-03-02,14124,434,4588.53,16,17824.36
+CMP-1011,Summer Fresh Collection,Instagram Ads,Pune,Mobile,2026-03-02,21613,453,3814.59,13,18425.94
+CMP-1011,Summer Fresh Collection,Instagram Ads,Delhi NCR,Desktop,2026-03-02,16410,462,2854.58,13,20591.41
+CMP-1011,Summer Fresh Collection,Google Ads,Chennai,Mobile,2026-03-09,10035,348,4153.53,14,17560.14
+CMP-1011,Summer Fresh Collection,Google Ads,Delhi NCR,Mobile,2026-03-09,12963,566,5458.58,32,36155.34
+CMP-1011,Summer Fresh Collection,Google Ads,Pune,Mobile,2026-03-09,12634,363,3044.68,19,28643.21
+CMP-1011,Summer Fresh Collection,Influencer Marketing,Chennai,Mobile,2026-03-09,11508,468,3281.2,18,25686.74
+CMP-1011,Summer Fresh Collection,Influencer Marketing,Pune,Desktop,2026-03-09,7939,268,1458.4,8,9347.49
+CMP-1011,Summer Fresh Collection,Influencer Marketing,Delhi NCR,Mobile,2026-03-09,11855,284,2173.35,11,19863.35
+CMP-1011,Summer Fresh Collection,Instagram Ads,Chennai,Mobile,2026-03-09,20521,693,4907.73,22,32687.83
+CMP-1011,Summer Fresh Collection,Instagram Ads,Delhi NCR,Mobile,2026-03-09,16082,378,3213.85,10,17220.08
+CMP-1011,Summer Fresh Collection,Instagram Ads,Pune,Desktop,2026-03-09,11977,349,2574.91,9,8831.17
+CMP-1011,Summer Fresh Collection,Google Ads,Delhi NCR,Tablet,2026-03-16,9747,445,5647.67,20,23588.91
+CMP-1011,Summer Fresh Collection,Google Ads,Chennai,Desktop,2026-03-16,13390,560,8648.89,28,45073.78
+CMP-1011,Summer Fresh Collection,Influencer Marketing,Delhi NCR,Mobile,2026-03-16,6963,154,971.74,7,8781.86
+CMP-1011,Summer Fresh Collection,Influencer Marketing,Chennai,Desktop,2026-03-16,8301,304,2333.77,9,11952.35
+CMP-1011,Summer Fresh Collection,Influencer Marketing,Pune,Mobile,2026-03-16,6479,227,1589.81,10,11393.55
+CMP-1011,Summer Fresh Collection,Instagram Ads,Chennai,Mobile,2026-03-16,19947,448,4305.0,17,26640.38
+CMP-1011,Summer Fresh Collection,Instagram Ads,Delhi NCR,Mobile,2026-03-16,14272,504,4652.52,20,26848.96
+CMP-1011,Summer Fresh Collection,Instagram Ads,Pune,Mobile,2026-03-16,15429,425,2895.77,15,25590.4
+CMP-1011,Summer Fresh Collection,Google Ads,Delhi NCR,Desktop,2026-03-23,10334,444,6317.82,25,38464.08
+CMP-1011,Summer Fresh Collection,Google Ads,Pune,Tablet,2026-03-23,12465,435,3727.2,23,31172.22
+CMP-1011,Summer Fresh Collection,Google Ads,Chennai,Mobile,2026-03-23,11460,439,4809.0,26,42660.5
+CMP-1011,Summer Fresh Collection,Influencer Marketing,Pune,Desktop,2026-03-23,8708,332,2496.6,12,15023.67
+CMP-1011,Summer Fresh Collection,Influencer Marketing,Delhi NCR,Mobile,2026-03-23,10530,391,2157.63,15,20242.59
+CMP-1011,Summer Fresh Collection,Influencer Marketing,Chennai,Tablet,2026-03-23,10738,332,2486.99,12,15041.93
+CMP-1011,Summer Fresh Collection,Instagram Ads,Chennai,Desktop,2026-03-23,16425,467,3888.95,20,27714.69
+CMP-1011,Summer Fresh Collection,Instagram Ads,Pune,Desktop,2026-03-23,16889,315,2897.13,14,16474.96
+CMP-1011,Summer Fresh Collection,Instagram Ads,Delhi NCR,Mobile,2026-03-23,16625,475,3599.21,11,15183.54
+CMP-1011,Summer Fresh Collection,Google Ads,Chennai,Mobile,2026-03-30,13680,631,7563.98,32,41076.42
+CMP-1011,Summer Fresh Collection,Google Ads,Pune,Mobile,2026-03-30,11120,503,4054.27,23,32396.14
+CMP-1011,Summer Fresh Collection,Google Ads,Delhi NCR,Mobile,2026-03-30,15150,498,5335.58,22,26648.85
+CMP-1011,Summer Fresh Collection,Influencer Marketing,Delhi NCR,Mobile,2026-03-30,8272,274,1870.38,12,18732.73
+CMP-1011,Summer Fresh Collection,Influencer Marketing,Pune,Mobile,2026-03-30,10811,224,1441.97,7,7911.94
+CMP-1011,Summer Fresh Collection,Instagram Ads,Chennai,Desktop,2026-03-30,17967,571,4630.23,21,29090.07
+CMP-1011,Summer Fresh Collection,Instagram Ads,Pune,Tablet,2026-03-30,15731,392,2653.89,11,12569.43
+CMP-1011,Summer Fresh Collection,Instagram Ads,Delhi NCR,Tablet,2026-03-30,20049,466,2983.28,19,25717.56
+CMP-1012,End of Season Sale,Google Ads,Kolkata,Desktop,2026-04-20,11538,504,6668.95,22,26718.22
+CMP-1012,End of Season Sale,Google Ads,Hyderabad,Mobile,2026-04-20,13683,617,7112.39,26,30580.24
+CMP-1012,End of Season Sale,Google Ads,Delhi NCR,Tablet,2026-04-20,11341,422,4236.69,18,23272.34
+CMP-1012,End of Season Sale,Google Ads,Pune,Desktop,2026-04-20,9545,414,5329.7,17,22991.27
+CMP-1012,End of Season Sale,Influencer Marketing,Pune,Desktop,2026-04-20,6882,243,1831.33,7,8714.06
+CMP-1012,End of Season Sale,Influencer Marketing,Delhi NCR,Mobile,2026-04-20,5807,164,671.83,6,7688.01
+CMP-1012,End of Season Sale,Influencer Marketing,Kolkata,Mobile,2026-04-20,9284,264,1523.37,11,16581.22
+CMP-1012,End of Season Sale,Influencer Marketing,Hyderabad,Mobile,2026-04-20,6775,209,1459.32,5,7268.44
+CMP-1012,End of Season Sale,Instagram Ads,Hyderabad,Mobile,2026-04-20,18992,574,4363.88,14,14927.29
+CMP-1012,End of Season Sale,Instagram Ads,Kolkata,Mobile,2026-04-20,12586,406,3518.55,14,15441.19
+CMP-1012,End of Season Sale,Instagram Ads,Pune,Desktop,2026-04-20,16576,549,5155.31,14,15957.89
+CMP-1012,End of Season Sale,YouTube Ads,Pune,Mobile,2026-04-20,28434,422,1892.52,6,6745.73
+CMP-1012,End of Season Sale,YouTube Ads,Delhi NCR,Tablet,2026-04-20,24164,319,1362.0,5,8031.11
+CMP-1012,End of Season Sale,YouTube Ads,Kolkata,Mobile,2026-04-20,28294,227,742.04,4,4556.26
+CMP-1012,End of Season Sale,YouTube Ads,Hyderabad,Desktop,2026-04-20,29115,266,827.45,6,9277.7
+CMP-1012,End of Season Sale,Google Ads,Hyderabad,Mobile,2026-04-27,13674,13674,8754.79,32,39954.07
+CMP-1012,End of Season Sale,Google Ads,Pune,Mobile,2026-04-27,10793,454,6985.86,25,34100.46
+CMP-1012,End of Season Sale,Google Ads,Delhi NCR,Desktop,2026-04-27,10024,348,4083.85,19,26051.79
+CMP-1012,End of Season Sale,Google Ads,Kolkata,Mobile,2026-04-27,16322,800,8423.99,51,65403.33
+CMP-1012,End of Season Sale,Influencer Marketing,Pune,Mobile,2026-04-27,5727,140,954.0,6,7527.86
+CMP-1012,End of Season Sale,Influencer Marketing,Hyderabad,Mobile,2026-04-27,7979,237,1244.62,9,10407.83
+CMP-1012,End of Season Sale,Influencer Marketing,Delhi NCR,Mobile,2026-04-27,9755,345,1590.78,10,11096.73
+CMP-1012,End of Season Sale,Influencer Marketing,Kolkata,Desktop,2026-04-27,10935,297,2027.22,10,12547.87
+CMP-1012,End of Season Sale,Instagram Ads,Pune,Desktop,2026-04-27,12791,387,3837.42,11,17759.37
+CMP-1012,End of Season Sale,Instagram Ads,Hyderabad,Mobile,2026-04-27,10144,287,2945.56,8,7675.67
+CMP-1012,End of Season Sale,Instagram Ads,Delhi NCR,Mobile,2026-04-27,16486,402,3177.51,12,15714.84
+CMP-1012,End of Season Sale,Instagram Ads,Kolkata,Mobile,2026-04-27,18392,489,4463.96,14,16743.23
+CMP-1012,End of Season Sale,YouTube Ads,Pune,Mobile,2026-04-27,26103,275,1355.02,6,8632.1
+CMP-1012,End of Season Sale,YouTube Ads,Delhi NCR,Mobile,2026-04-27,24302,188,727.21,5,7490.68
+CMP-1012,End of Season Sale,YouTube Ads,Kolkata,Mobile,2026-04-27,35007,494,2486.52,12,15824.06
+CMP-1012,End of Season Sale,YouTube Ads,Hyderabad,Mobile,2026-04-27,24718,228,1355.3,5,8652.49
+CMP-1012,End of Season Sale,Google Ads,Kolkata,Mobile,2026-05-04,15229,637,9741.02,35,52582.76
+CMP-1012,End of Season Sale,Google Ads,Hyderabad,Mobile,2026-05-04,10753,526,5290.15,27,35516.99
+CMP-1012,End of Season Sale,Google Ads,Pune,Desktop,2026-05-04,12383,424,5671.84,25,29809.45
+CMP-1012,End of Season Sale,Google Ads,Delhi NCR,Mobile,2026-05-04,11661,351,3629.36,19,24648.54
+CMP-1012,End of Season Sale,Influencer Marketing,Delhi NCR,Tablet,2026-05-04,10599,10599,1436.19,10,15685.52
+CMP-1012,End of Season Sale,Influencer Marketing,Kolkata,Mobile,2026-05-04,8526,226,1585.37,7,10216.65
+CMP-1012,End of Season Sale,Influencer Marketing,Pune,Mobile,2026-05-04,6333,202,1083.42,6,7576.61
+CMP-1012,End of Season Sale,Influencer Marketing,Hyderabad,Desktop,2026-05-04,7176,150,993.15,6,8906.61
+CMP-1012,End of Season Sale,Instagram Ads,Kolkata,Mobile,2026-05-04,13163,270,2230.42,8,11910.79
+CMP-1012,End of Season Sale,Instagram Ads,Hyderabad,Mobile,2026-05-04,14472,295,2338.92,8,11770.95
+CMP-1012,End of Season Sale,Instagram Ads,Delhi NCR,Mobile,2026-05-04,14864,303,2595.68,10,13640.08
+CMP-1012,End of Season Sale,Instagram Ads,Pune,Mobile,2026-05-04,14053,390,3030.14,15,25213.8
+CMP-1012,End of Season Sale,YouTube Ads,Pune,Mobile,2026-05-04,23926,174,653.92,2,2279.27
+CMP-1012,End of Season Sale,YouTube Ads,Kolkata,Desktop,2026-05-04,23123,271,925.15,6,8429.95
+CMP-1012,End of Season Sale,YouTube Ads,Delhi NCR,Mobile,2026-05-04,26469,292,1290.02,4,4709.1
+CMP-1012,End of Season Sale,Google Ads,Pune,Mobile,2026-05-11,13841,538,6653.51,22,32791.1
+CMP-1012,End of Season Sale,Google Ads,Kolkata,Desktop,2026-05-11,11821,346,4776.92,15,20954.14
+CMP-1012,End of Season Sale,Google Ads,Hyderabad,Desktop,2026-05-11,11414,442,4297.05,23,26088.84
+CMP-1012,End of Season Sale,Google Ads,Delhi NCR,Mobile,2026-05-11,14215,640,6674.1,27,38137.53
+CMP-1012,End of Season Sale,Influencer Marketing,Kolkata,Desktop,2026-05-11,10049,347,2629.42,13,20942.9
+CMP-1012,End of Season Sale,Influencer Marketing,Delhi NCR,Mobile,2026-05-11,7415,257,1314.33,8,8870.93
+CMP-1012,End of Season Sale,Influencer Marketing,Hyderabad,Desktop,2026-05-11,6333,200,1478.25,8,9309.94
+CMP-1012,End of Season Sale,Influencer Marketing,Pune,Mobile,2026-05-11,10866,345,2307.06,11,16476.66
+CMP-1012,End of Season Sale,Instagram Ads,Delhi NCR,Desktop,2026-05-11,18357,606,6081.46,22,30332.66
+CMP-1012,End of Season Sale,Instagram Ads,Kolkata,Mobile,2026-05-11,14672,417,3177.05,10,14127.83
+CMP-1012,End of Season Sale,Instagram Ads,Hyderabad,Mobile,2026-05-11,15202,436,3128.61,12,13800.05
+CMP-1012,End of Season Sale,Instagram Ads,Pune,Mobile,2026-05-11,16214,325,2929.25,12,17103.62
+CMP-1012,End of Season Sale,YouTube Ads,Kolkata,Mobile,2026-05-11,29930,239,1255.13,3,4563.04
+CMP-1012,End of Season Sale,YouTube Ads,Pune,Mobile,2026-05-11,23639,299,1397.74,5,6082.29
+CMP-1012,End of Season Sale,YouTube Ads,Hyderabad,Desktop,2026-05-11,29389,355,1887.65,5,4539.99
+CMP-1012,End of Season Sale,YouTube Ads,Delhi NCR,Desktop,2026-05-11,22634,224,937.66,4,4784.58
