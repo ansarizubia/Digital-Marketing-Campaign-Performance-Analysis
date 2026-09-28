@@ -1,12 +1,12 @@
-# Digital Marketing Campaign Performance Analysis
+## Digital Marketing Campaign Performance Analysis
 
 Excel + Power BI project
 
-## Business problem
+### Business problem
 
 A D2C fashion & lifestyle brand runs paid and owned marketing campaigns across six channels and seven Indian metro regions. Marketing spend has grown quarter over quarter, but the team has no single view of which channels, regions, and campaigns actually convert that spend into revenue. Budget allocation decisions are currently made on gut feel rather than performance data.
 
-## Objective
+### Objective
 
 - Consolidate and clean a raw multi-source campaign export
 - Calculate standard marketing KPIs (CTR, conversion rate, CPC, CPA, ROAS) at the record level
@@ -14,7 +14,7 @@ A D2C fashion & lifestyle brand runs paid and owned marketing campaigns across s
 - Build an interactive Excel dashboard and a companion Power BI report for ongoing tracking
 - Turn the analysis into budget-reallocation recommendations for the next quarter
 
-## Dataset
+### Dataset
 
 - 620 cleaned records, weekly grain, July 2025 to May 2026
 - One row = one campaign x channel x region x device combination, for one week
@@ -46,7 +46,7 @@ A D2C fashion & lifestyle brand runs paid and owned marketing campaigns across s
 
 Full findings and recommendations are in the `Insights` sheet of the workbook.
 
-## How to explore this project
+### How to explore this project
 
 1. Open the Excel workbook and start on the `README` sheet for the data dictionary
 2. Look at `Raw_Data` to see the data quality issues, then `Cleaned_Data` to see the fix
@@ -56,4 +56,5 @@ Full findings and recommendations are in the `Insights` sheet of the workbook.
 
 ### Author
 **Zubia Ansari** - Data and BI Analyst
+
 [LinkedIn](https://www.linkedin.com/in/zubia-ansari01/) | [GitHub](https://github.com/ansarizubia)
